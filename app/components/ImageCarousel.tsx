@@ -8,14 +8,14 @@ const ImagesCarousel = () => {
         "/gallery-2.jpg",
         "/gallery-3.jpg",
         "/gallery-4.jpg",
-        "/flower-4.jpg",
-        "/flower-5.jpg",
-        "/flower-6.jpg",
-        "/flower-7.jpg",
-        "/flower-8.jpg",
-        "/flower-12.jpg",
-        "/flower-13.jpg",
-        "/flower-14.jpg",
+        "/flower-4.JPG",
+        "/flower-5.JPG",
+        "/flower-6.JPG",
+        "/flower-7.JPG",
+        "/flower-8.JPG",
+        "/flower-12.JPG",
+        "/flower-13.JPG",
+        "/flower-14.JPG",
     ];
 
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -75,10 +75,10 @@ const ImagesCarousel = () => {
 
 const ImageCarousel = () => {
     const images = [
-        "/hero-1.JPG",
-        "/hero-2.JPG",
-        "/hero-3.JPG",
-        "/hero-4.JPG",
+        "/hero-1.jpg",
+        "/hero-2.jpg",
+        "/hero-3.jpg",
+        "/hero-4.jpg",
     ];
 
     const [currentIndex, setCurrentIndex] = useState(0);

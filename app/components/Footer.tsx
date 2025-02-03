@@ -46,11 +46,11 @@ export default function Footer() {
                             27 Oduduwa Way GRA, Ikeja,
                             Lagos State, Nigeria.
                         </p>
-                        <Link href="tel:+2348074373812" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
-                            +234-807-437-3812
+                        <Link href="tel:+2347042580409" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
+                            +234-704-258-0409
                         </Link>
-                        <Link href="tel:+2348074373868" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
-                            +234-807-437-3868
+                        <Link href="tel:+2348105115921" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
+                            +234-810-511-5921
                         </Link>
                         <Link href="mailto:newtonanddavidflowers@gmail.com" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
                             newtonanddavidflowers@gmail.com
@@ -63,8 +63,8 @@ export default function Footer() {
                         <p className={`${argumentumRegular.className} text-center`}>
                             Elpina Plaza | Plot 642c Akin Adesola Street, Victoria Island, Lagos
                         </p>
-                        <Link href="tel:+2347036091228" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
-                            +234-70-3609-1228
+                        <Link href="tel:+2347076607264" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
+                            +234-70-7660-7264
                         </Link>
                         <Link href="tel:+2347030059833" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
                             +234-70-3005-9833
@@ -78,11 +78,11 @@ export default function Footer() {
                         <p className={`${argumentumRegular.className} text-center`}>
                             Ceddi Plaza | 264 Tafawa Balewa, CBD, Abuja
                         </p>
-                        <Link href="tel:+2348077574320" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
-                            +234-80-7757-4320
+                        <Link href="tel:+2348097861683" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
+                            +234-80-9786-1683
                         </Link>
-                        <Link href="tel:+2348023830211" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
-                            +234-70-3005-9833
+                        <Link href="tel:+2348187049941" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
+                            +234-81-8704-9941
                         </Link>
                         <Link href="mailto:newtonanddavidflowers@gmail.com" className={`${argumentumRegular.className} block hover:underline w-fit mx-auto`}>
                             newtonanddavidflowers@gmail.com
